@@ -27,7 +27,7 @@
 * We would like to say **YES** to the title. We introduce **SyncOOD** to access open-world knowledge encapsulated within off-the-shelf foundation models by synthesizing meaningful OOD data.
 * **SyncOOD** provides an ***automatic***, ***transparent***, ***controllable***, and ***low-cost*** pipeline for synthesizing **scene-level images containing novel objects with annotation boxes** via image editing.
 * The **synthetic OOD samples** are filtered and employed to augment the training of **a ***lightweight***, ***plug-and-play*** OOD detector**, thus ***effectively*** optimizing the in-distribution(ID)/out-of-distribution(OOD) decision boundaries with ***minimal*** data usage.
-* Explore more in the paper: [**Can OOD Object Detectors Learn from Foundation Models?**]() in ECCV 2024.
+* Explore more in the paper: [**Can OOD Object Detectors Learn from Foundation Models?**](https://arxiv.org/pdf/2409.05162) in ECCV 2024.
 
 
 ### Quick Guide
