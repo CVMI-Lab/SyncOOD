@@ -58,11 +58,13 @@ Out-of-distribution (OOD) object detection is a challenging task due to the abse
 ### Citation
 If you find this work is useful, please consider citing:
 ```bibtex
-@InProceedings{liu2024can,
-	author    = {Liu, Jiahui and Wen, Xin and Zhao, Shizhen and Chen, Yingxian and Qi, Xiaojuan},
-	title     = {Can OOD Object Detectors Learn from Foundation Models?},
-	booktitle = {European Conference on Computer Vision},
-	year      = {2024}
+@inproceedings{liu2025can,
+  title={Can OOD Object Detectors Learn from Foundation Models?},
+  author={Liu, Jiahui and Wen, Xin and Zhao, Shizhen and Chen, Yingxian and Qi, Xiaojuan},
+  booktitle={European Conference on Computer Vision},
+  pages={213--231},
+  year={2025},
+  organization={Springer}
 }
 ```
 
