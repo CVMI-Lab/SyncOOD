@@ -5,7 +5,7 @@
 <div>
     <a href="https://github.com/jliu-ac" target="_blank">Jiahui Liu</a>,</span>
     <a href="" target="_blank">Xin Wen</a>,</span>
-    <a href="" target="_blank">Shizhen Zhao</a>,</span>
+    <a href="https://github.com/Shizhen-ZHAO" target="_blank">Shizhen Zhao</a>,</span>
     <a href="" target="_blank">Yingxian Chen</a>,</span>
     <a href="https://xjqi.github.io/" target="_blank">Xiaojuan Qi</a><sup>&#8224</sup>  
 </div>
